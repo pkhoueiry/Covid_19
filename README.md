@@ -1,5 +1,5 @@
-# Covid_19
-COVID 19 information from World In Data Including data from Lebanon
+# Covid_19 in Lebanon
+COVID 19 cases in Lebanon and a selection of other countries for comparison (Source: World In Data)
 
 https://pkhoueiry.github.io/Covid_19/
 
