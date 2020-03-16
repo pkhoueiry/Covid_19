@@ -1,7 +1,7 @@
 # Covid_19 cases in Lebanon
 ## Computational Biology Lab (Pierre Khoueiry lab)
 
-COVID 19 cases in Lebanon and a selection of other countries for comparison (Source: World In Data)
+COVID 19 cases in Lebanon and a selection of other countries for comparison from Our World In Data (https://ourworldindata.org).
 
 https://pkhoueiry.github.io/Covid_19/
 
