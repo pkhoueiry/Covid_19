@@ -26,7 +26,7 @@ First, second and third plots: Daily new, Total confirmed cases raw and per mill
 
 ### Deaths
 
-Third and fourth plots are for daily and total confirmed deaths, respectively
+Plots for daily and total confirmed deaths
 
 <iframe src="https://ourworldindata.org/grapher/daily-deaths-covid-19-who?yScale=log&time=2..54&country=OWID_WRL+ITA+IRN+FRA+GBR+LBN+USA+DEU+SAU+CHN" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
