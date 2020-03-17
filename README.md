@@ -5,7 +5,7 @@ COVID 19 cases in Lebanon and a selection of other countries for comparison from
 
 https://pkhoueiry.github.io/Covid_19/
 
-Data is shown in LOG allowing us to compare trends between Lebanon and other countries with large number of cases
+Data is shown by default in LOG allowing us to compare trends between Lebanon and other countries with large number of cases.
 
 ### Confirmed cases
 
