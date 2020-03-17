@@ -16,7 +16,7 @@ https://pkhoueiry.github.io/Covid_19/
 
 Data is shown by default in LOG allowing us to compare trends between Lebanon and other countries with large number of cases.
 
-First and second plots: Daily new and Total confirmed cases, respectively
+First, second and third plots: Daily new, Total confirmed cases raw and per million, respectively
 
 <iframe src="https://ourworldindata.org/grapher/daily-cases-covid-19-who?yScale=log&time=1..53&country=FRA+DEU+IRN+ITA+JOR+LBN+SAU+USA+CHN+OWID_WRL" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
