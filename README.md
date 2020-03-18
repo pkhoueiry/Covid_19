@@ -5,7 +5,7 @@ COVID 19 cases in Lebanon and a selection of other countries for comparison from
 
 https://pkhoueiry.github.io/Covid_19/
 
-### Lebanon's current state (based on daily report)
+### Lebanon's current state (based on daily reports)
 
 | Confirmed | 133 |
 | Recovered | 3   |
