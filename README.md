@@ -14,8 +14,6 @@ https://pkhoueiry.github.io/Covid_19/
 
 ### Confirmed cases
 
-<span style="color:red">**The source is having problems updating the numbers. Sorry for the lack of updates. We will come back soon**</span>
-
 Data is shown by default in LOG allowing us to compare trends between Lebanon and other countries with large number of cases.
 
 Numbers on the plots may be delayed as compared to the current state of each country. The major aims from the plots is to show the trends and to compare data between countries. More info can be found on https://ourworldindata.org
