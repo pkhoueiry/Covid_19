@@ -20,9 +20,9 @@ Numbers on the plots may be delayed as compared to the current state of each cou
 
 First, second and third plots: Daily new, Total and per million confirmed cases, respectively
 
-<iframe src="https://ourworldindata.org/grapher/daily-cases-covid-19-who?yScale=log&time=1..53&country=FRA+DEU+IRN+ITA+JOR+LBN+SAU+USA+CHN+KOR+OWID_WRL" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/daily-cases-covid-19?yScale=log&time=1..53&country=FRA+DEU+IRN+ITA+JOR+LBN+SAU+USA+CHN+KOR+OWID_WRL" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://ourworldindata.org/grapher/total-cases-covid-19-who?yScale=log&country=OWID_WRL+ITA+IRN+FRA+GBR+LBN+USA+DEU+SAU+KOR+CHN" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/total-cases-covid-19?yScale=log&country=OWID_WRL+ITA+IRN+FRA+GBR+LBN+USA+DEU+SAU+KOR+CHN" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/total-confirmed-cases-of-covid-19-per-million-people?yScale=log&tab=chart&country=OWID_WRL+ITA+IRN+FRA+GBR+LBN+USA+DEU+SAU+KOR+CHN" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -30,7 +30,7 @@ First, second and third plots: Daily new, Total and per million confirmed cases,
 
 Plots for daily and total confirmed deaths
 
-<iframe src="https://ourworldindata.org/grapher/daily-deaths-covid-19-who?yScale=log&time=2..54&country=OWID_WRL+ITA+IRN+FRA+GBR+LBN+USA+DEU+SAU+KOR+CHN" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/daily-deaths-covid-19?yScale=log&time=2..54&country=OWID_WRL+ITA+IRN+FRA+GBR+LBN+USA+DEU+SAU+KOR+CHN" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://ourworldindata.org/grapher/total-deaths-covid-19-who?yScale=log&country=OWID_WRL+ITA+IRN+FRA+GBR+LBN+USA+DEU+SAU+KOR+CHN" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/total-deaths-covid-19?yScale=log&country=OWID_WRL+ITA+IRN+FRA+GBR+LBN+USA+DEU+SAU+KOR+CHN" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
