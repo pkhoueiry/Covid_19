@@ -26,6 +26,10 @@ First, second and third plots: Daily new, Total and per million confirmed cases,
 
 <iframe src="https://ourworldindata.org/grapher/total-confirmed-cases-of-covid-19-per-million-people?yScale=log&tab=chart&country=OWID_WRL+ITA+IRN+FRA+GBR+LBN+USA+DEU+SAU+KOR+CHN" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+### Trajectories since the 100th confirmed case
+
+<iframe src="https://ourworldindata.org/grapher/covid-confirmed-cases-since-100th-case?country=LBN" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 ### Deaths
 
 Plots for daily and total confirmed deaths
