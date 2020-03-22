@@ -12,6 +12,13 @@ https://pkhoueiry.github.io/Covid_19/
 | Deaths    | 4        |
 | Active    | 236      |
 
+
+### Trajectories since the 100th confirmed case
+
+The below shows that cases in Lebanon are increasing fast lately.
+ 
+<iframe src="https://ourworldindata.org/grapher/covid-confirmed-cases-since-100th-case?country=LBN" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 ### Confirmed cases
 
 Data is shown by default in LOG allowing us to compare trends between Lebanon and other countries with large number of cases.
@@ -26,10 +33,6 @@ First, second and third plots: Daily new, Total and per million confirmed cases,
 
 <iframe src="https://ourworldindata.org/grapher/total-confirmed-cases-of-covid-19-per-million-people?yScale=log&tab=chart&country=OWID_WRL+ITA+IRN+FRA+GBR+LBN+USA+DEU+SAU+KOR+CHN" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-### Trajectories since the 100th confirmed case
-
-<iframe src="https://ourworldindata.org/grapher/covid-confirmed-cases-since-100th-case?country=LBN" style="width: 100%; height: 600px; border: 0px none;"></iframe>
- 
 ### Deaths
 
 Plots for daily and total confirmed deaths
