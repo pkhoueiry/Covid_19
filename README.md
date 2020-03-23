@@ -15,7 +15,7 @@ https://pkhoueiry.github.io/Covid_19/
 
 ### Trajectories since the 100th confirmed case
 
-The below shows that cases in Lebanon are increasing fast lately.
+The below shows that cases in Lebanon are doubling every 5 days, showing that confinment measures are helping, so far. This needs to be confirmed over the coming days. 
  
 <iframe src="https://ourworldindata.org/grapher/covid-confirmed-cases-since-100th-case?country=LBN" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
