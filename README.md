@@ -3,6 +3,8 @@
 
 COVID 19 cases in Lebanon and a selection of other countries for comparison from Our World In Data (https://ourworldindata.org)
 
+NEW: Added (Deaths section below) the Total confirmed cases vs Total confirmed deaths highlighting the % of death for severla countries at once
+
 https://pkhoueiry.github.io/Covid_19/
 
 ### Lebanon's current state (based on daily reports)
@@ -35,9 +37,11 @@ First, second and third plots: Daily new, Total and per million confirmed cases,
 
 ### Deaths
 
-Plots for daily and total confirmed deaths
+Plots for daily, total confirmed deaths and total confirmed cases VS Total confirmed deaths
 
 <iframe src="https://ourworldindata.org/grapher/daily-deaths-covid-19?yScale=log&time=2..54&country=OWID_WRL+ITA+IRN+FRA+GBR+LBN+USA+DEU+SAU+KOR+CHN+ESP" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/total-deaths-covid-19?yScale=log&country=OWID_WRL+ITA+IRN+FRA+GBR+LBN+USA+DEU+SAU+KOR+CHN+ESP" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/covid-19-total-confirmed-cases-vs-total-confirmed-deaths?country=LBN" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
