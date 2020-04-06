@@ -28,7 +28,7 @@ Data is shown by default in LOG allowing us to compare trends between Lebanon an
 Numbers on the plots may be delayed as compared to the current state of each country. The major aims from the plots is to show the trends and to compare data between countries. More info can be found on https://ourworldindata.org
 
 First and second plots: Daily new and dainly (3 days average) cases. The 3 days average is ideal to see the trend
-Fourth and fifth are Total and per million confirmed cases, respectively.
+third and fourth are Total and per million confirmed cases, respectively.
 
 <iframe src="https://ourworldindata.org/grapher/daily-cases-covid-19?yScale=log&time=1..53&country=FRA+DEU+IRN+ITA+JOR+LBN+SAU+USA+CHN+KOR+OWID_WRL+ESP" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
