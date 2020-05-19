@@ -27,24 +27,23 @@ Data is shown by default in LOG allowing us to compare trends between Lebanon an
 
 Numbers on the plots may be delayed as compared to the current state of each country. The major aims from the plots is to show the trends and to compare data between countries. More info can be found on https://ourworldindata.org
 
-First and second plots: Daily new and dainly (3 days average) cases. The 3 days average is ideal to see the trend
-third and fourth are Total and per million confirmed cases, respectively.
-
-<iframe src="https://ourworldindata.org/grapher/daily-cases-covid-19?yScale=log&time=1..53&country=FRA+DEU+IRN+ITA+JOR+LBN+SAU+USA+CHN+KOR+OWID_WRL+ESP" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+Daily confirmed COVID-19 cases, rolling 3-day average which is ideal to see the trend
 
 <iframe src="https://ourworldindata.org/grapher/daily-covid-cases-3-day-average?yScale=log&country=FRA+DEU+IRN+ITA+JOR+LBN+SAU+USA+CHN+KOR+OWID_WRL+ESP" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://ourworldindata.org/grapher/total-cases-covid-19?yScale=log&country=OWID_WRL+ITA+IRN+FRA+GBR+LBN+USA+DEU+SAU+KOR+CHN+ESP" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+Per million confirmed cases reflect the spread in different countries normalized to the population size.
 
 <iframe src="https://ourworldindata.org/grapher/total-confirmed-cases-of-covid-19-per-million-people?yScale=log&tab=chart&country=OWID_WRL+ITA+IRN+FRA+GBR+LBN+USA+DEU+SAU+KOR+CHN+ESP" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ### Deaths
 
-Plots for daily, total confirmed deaths and total confirmed cases VS Total confirmed deaths
+Daily confirmed COVID-19 deaths per million, 3-day rolling average showing the trend 
 
-<iframe src="https://ourworldindata.org/grapher/daily-deaths-covid-19?yScale=log&time=2..54&country=OWID_WRL+ITA+IRN+FRA+GBR+LBN+USA+DEU+SAU+KOR+CHN+ESP" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/daily-covid-deaths-per-million-3-day-avg?tab=chart&yScale=log&year=2020-03-19&country=OWID_WRL+ITA+IRN+FRA+GBR+LBN+USA+DEU+SAU+KOR+CHN+ESP" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://ourworldindata.org/grapher/total-deaths-covid-19?yScale=log&country=OWID_WRL+ITA+IRN+FRA+GBR+LBN+USA+DEU+SAU+KOR+CHN+ESP" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+Total confirmed cases VS Total confirmed deaths
 
 <iframe src="https://ourworldindata.org/grapher/covid-19-total-confirmed-cases-vs-total-confirmed-deaths?country=LBN" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
 
