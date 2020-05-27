@@ -29,7 +29,7 @@ Numbers on the plots may be delayed as compared to the current state of each cou
 
 Daily confirmed COVID-19 cases, rolling **7-day average** which is ideal to see the trend
 
-<iframe src="https://ourworldindata.org/coronavirus-data-explorer?yScale=log&zoomToSelection=true&country=FRA~DEU~IRN~ITA~JOR~LBN~SAU~USA~CHN~KOR~OWID_WRL~ESP&casesMetric=true&dailyFreq=true&aligned=true&smoothing=7" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/coronavirus-data-explorer?yScale=log&zoomToSelection=true&country=FRA~DEU~IRN~ITA~JOR~LBN~SAU~USA~CHN~KOR~OWID_WRL~ESP&casesMetric=true&dailyFreq=true&aligned=true&smoothing=7" style="width: 100%; height: 1000px; border: 0px none;"></iframe>
 
 Per million confirmed cases reflect the spread in different countries normalized to the population size.
 
