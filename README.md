@@ -15,7 +15,7 @@ https://pkhoueiry.github.io/Covid_19/
 
 ### Trajectories since the 100th confirmed case
 
-The below shows confirmed cases since 100th case. Ideally is to reach a plateau (straight line) and conserve it.
+The below shows confirmed cases since 100th case. Ideally is to reach a plateau (straight line) and preserve it.
  
 <iframe src="https://ourworldindata.org/grapher/covid-confirmed-cases-since-100th-case?country=LBN+FRA+DEU+ITA+USA+CHN+KOR+ESP" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -25,7 +25,7 @@ Data is shown by default in LOG allowing us to compare trends between Lebanon an
 
 More info can be found on https://ourworldindata.org
 
-NB: **Rolling averages** is ideal to see the trend. 
+NB: **Rolling averages** are ideal to see the trends. 
 
 <iframe src="https://ourworldindata.org/coronavirus-data-explorer?yScale=log&zoomToSelection=true&country=FRA~DEU~IRN~ITA~JOR~LBN~SAU~USA~CHN~KOR~OWID_WRL~ESP&casesMetric=true&dailyFreq=true&aligned=true&smoothing=7" style="width: 100%; height: 800px; border: 0px none;"></iframe>
 
