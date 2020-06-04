@@ -19,19 +19,15 @@ The below shows confirmed cases since 100th case. Ideally is to reach a plateau 
  
 <iframe src="https://ourworldindata.org/grapher/covid-confirmed-cases-since-100th-case?country=LBN+FRA+DEU+ITA+USA+CHN+KOR+ESP" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-### Data explorer: A flexible way to explore data based on user specific options
+### Data explorer: A flexible way to explore data based on user specific options (i.e confirmed cases or death, frequency ...)
 
 Data is shown by default in LOG allowing us to compare trends between Lebanon and other countries that have large number of cases.
 
 More info can be found on https://ourworldindata.org
 
-Rolling **7-day average** is ideal to see the trend. 
+NB: **Rolling averages** is ideal to see the trend. 
 
 <iframe src="https://ourworldindata.org/coronavirus-data-explorer?yScale=log&zoomToSelection=true&country=FRA~DEU~IRN~ITA~JOR~LBN~SAU~USA~CHN~KOR~OWID_WRL~ESP&casesMetric=true&dailyFreq=true&aligned=true&smoothing=7" style="width: 100%; height: 800px; border: 0px none;"></iframe>
-
-**Per million confirmed cases reflect the spread in different countries normalized to the population size.**
-
-<iframe src="https://ourworldindata.org/grapher/total-confirmed-cases-of-covid-19-per-million-people?yScale=log&tab=chart&country=OWID_WRL+ITA+IRN+FRA+GBR+LBN+USA+DEU+SAU+KOR+CHN+ESP" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 
 
