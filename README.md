@@ -3,8 +3,6 @@
 
 COVID 19 cases in Lebanon and a selection of other countries for comparison from Our World In Data (https://ourworldindata.org)
 
-NEW: Added (Deaths section below) the Total confirmed cases vs Total confirmed deaths highlighting the % of death for severla countries at once
-
 https://pkhoueiry.github.io/Covid_19/
 
 ### Lebanon's current state (based on daily reports)
