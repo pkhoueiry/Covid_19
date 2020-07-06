@@ -10,7 +10,7 @@ https://pkhoueiry.github.io/Covid_19/
 | Confirmed | 1885 (+12)|
 | Recovered | 1311      |
 | Deaths    | 36      |
-| Active    | 526     |
+| Active    | 538     |
 
 
 ### Trajectories since the 100th confirmed case
