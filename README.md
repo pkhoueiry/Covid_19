@@ -7,10 +7,10 @@ https://pkhoueiry.github.io/Covid_19/
 
 ### Lebanon's current state (based on daily reports)
 
-| Confirmed | 93097 (+1769)|
+| Confirmed | 94236 (+1139)|
 | Recovered | 46602      |
-| Deaths    | 713      |
-| Active    | 45782     |
+| Deaths    | 723      |
+| Active    | 46911     |
 
 
 ### Trajectories since the 100th confirmed case
