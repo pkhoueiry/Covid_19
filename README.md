@@ -19,7 +19,7 @@ The below shows confirmed cases since 100th case. Ideally is to reach a plateau 
  
 <iframe src="https://ourworldindata.org/grapher/covid-confirmed-cases-since-100th-case?country=LBN+FRA+DEU+ITA+USA+CHN+KOR+ESP" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-### Data explorer: A flexible way to explore data based on user specific options (i.e confirmed cases or death, frequency ...)
+### Data explorer: A flexible way to explore data based on user specific options (i.e. confirmed cases or death, frequency ...)
 
 Data is shown by default in LOG allowing us to compare trends between Lebanon and other countries that have large number of cases.
 
