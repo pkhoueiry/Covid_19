@@ -12,7 +12,6 @@ https://pkhoueiry.github.io/Covid_19/
 | Deaths    | 6854      |
 | Active    | 79731     |
 
-
 ### Trajectories since the 100th confirmed case 
 
 The below shows confirmed cases since 100th case. Ideally is to reach a plateau (straight line) and preserve it.
